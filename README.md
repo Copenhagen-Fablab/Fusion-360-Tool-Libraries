@@ -2,7 +2,7 @@
 Tool Libraries relevant to Copenhagen Fablab for use in Autodesk Fusion 360.
 
 
-While the geometries of cutters in this library accurately reflect the cutters found in Copenhagen Fablab at the time of writing, the feeds and speeds are taken from Shopbot documentation and online calculators. Use at own risk!!
+While the geometries of cutters in this library accurately reflect the cutters found in Copenhagen Fablab at the time of writing, the feeds and speeds are untested. The values have been selected based on official Shopbot documentation and third party online calculators. Use at own risk!!
 
 # How to install
 - Download the desired library to your computer.
